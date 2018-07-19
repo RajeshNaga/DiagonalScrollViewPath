@@ -11,5 +11,6 @@ public class DiagonalScrollviewLib {
     {
         Log.d(DiagonalScrollviewLib.class.getClass().getSimpleName(),msg);
 
+
     }
 }
